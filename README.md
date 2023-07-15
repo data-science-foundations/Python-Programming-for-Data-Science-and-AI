@@ -1,8 +1,8 @@
-# Python Programing for Data Science and AI
+# Python Programming for Data Science and AI
 Sumudu Tennakoon, Ph.D.
 
 ## Course Description
-This course introduces the fundamentals of using Python Programing Language for data science and AI applications. You’ll learn the basics of computer programing, how to get started with Python programming, the fundamentals of Python Programming, and how to use Python libraries developed for Data Science and AI tasks. A learner who completes this course should be able to confidently use Python programing language for Data Science and AI projects.
+This course introduces the fundamentals of using Python Programming Language for data science and AI applications. You’ll learn the basics of computer programming, how to get started with Python programming, the fundamentals of Python Programming, and how to use Python libraries developed for Data Science and AI tasks. A learner who completes this course should be able to confidently use Python programming language for Data Science and AI projects.
 
 ## Video Lessons
 * YouTube Playlist: https://www.youtube.com/playlist?list=PLTzg8WR1gEHw4P5ar2jZWbDYbZpWYBOjF
